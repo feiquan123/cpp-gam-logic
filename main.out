@@ -1,0 +1,87 @@
+Please intput your role's name:
+Role[ 亚瑟王 ]'s status is [ life:1000 weapon: attackPower:0]
+
+Moster[ Moster A ]'s status is [ life:300 attackPower:10]
+Moster[ Moster B ]'s status is [ life:50 attackPower:15]
+Moster[ Moster C ]'s status is [ life:200 attackPower:30]
+
+Weapon[ Wood Sword ]'s attack is 20
+Weapon[ Iron Sword ]'s attack is 50
+Weapon[ Magic Sword ]'s attack is 100
+
+Role[ 亚瑟王 ] meet Monser [ Moster A ]
+Role[ 亚瑟王 ] no have weapon, you just attack name by your fist.
+Role[ 亚瑟王 ] pick up weapon[ Fist ], attack power is 1
+attack Monser [ Moster A ], Moster A loss 1 life.
+Moster[ Moster A ]'s status is [ life:299 attackPower:10]
+
+Role[ 亚瑟王 ] leave Monser [ Moster A ]
+Role[ 亚瑟王 ] pick up weapon[ Wood Sword ], attack power is 20
+Role[ 亚瑟王 ] meet Monser [ Moster A ]
+attack Monser [ Moster A ], Moster A loss 20 life.
+Moster[ Moster A ]'s status is [ life:279 attackPower:10]
+
+Role[ 亚瑟王 ] pick up weapon[ Iron Sword ], attack power is 50
+Role[ 亚瑟王 ] meet Monser [ Moster B ]
+attack Monser [ Moster B ], Moster Bis dead.
+Moster[ Moster B ]'s status is [ life:0 attackPower:15]
+
+Role[ 亚瑟王 ] pick up weapon[ Magic Sword ], attack power is 100
+Role[ 亚瑟王 ] meet Monser [ Moster C ]
+attack Monser [ Moster C ], Moster C loss 100 life.
+attack Monser [ Moster C ], Moster Cis dead.
+Moster[ Moster C ]'s status is [ life:0 attackPower:30]
+
+attack Role[ 亚瑟王 ] loss 30life 
+Role[ 亚瑟王 ] meet Monser [ Moster Boss ]
+attack Monser [ Moster Boss ], Moster Boss loss 100 life.
+Role[ 亚瑟王 ]'s status is [ life:970 weapon:Magic Sword attackPower:100]
+Moster[ Moster Boss ]'s status is [ life:900 attackPower:100]
+
+attack Role[ 亚瑟王 ] loss 100life 
+attack Monser [ Moster Boss ], Moster Boss loss 100 life.
+Role[ 亚瑟王 ]'s status is [ life:870 weapon:Magic Sword attackPower:100]
+Moster[ Moster Boss ]'s status is [ life:800 attackPower:100]
+
+attack Role[ 亚瑟王 ] loss 100life 
+Role[ 亚瑟王 ] user skill [斩杀] attack Monser [ Moster Boss ], Moster Boss loss 77 life.
+Role[ 亚瑟王 ]'s status is [ life:770 weapon:Magic Sword attackPower:100]
+Moster[ Moster Boss ]'s status is [ life:720 attackPower:100]
+
+attack Role[ 亚瑟王 ] loss 100life 
+attack Monser [ Moster Boss ], Moster Boss loss 100 life.
+Role[ 亚瑟王 ]'s status is [ life:670 weapon:Magic Sword attackPower:100]
+Moster[ Moster Boss ]'s status is [ life:620 attackPower:100]
+
+attack Role[ 亚瑟王 ] loss 100life 
+attack Monser [ Moster Boss ], Moster Boss loss 100 life.
+Role[ 亚瑟王 ]'s status is [ life:570 weapon:Magic Sword attackPower:100]
+Moster[ Moster Boss ]'s status is [ life:520 attackPower:100]
+
+attack Role[ 亚瑟王 ] loss 100life 
+attack Monser [ Moster Boss ], Moster Boss loss 100 life.
+Role[ 亚瑟王 ]'s status is [ life:470 weapon:Magic Sword attackPower:100]
+Moster[ Moster Boss ]'s status is [ life:420 attackPower:100]
+
+attack Role[ 亚瑟王 ] loss 100life 
+attack Monser [ Moster Boss ], Moster Boss loss 100 life.
+Role[ 亚瑟王 ]'s status is [ life:370 weapon:Magic Sword attackPower:100]
+Moster[ Moster Boss ]'s status is [ life:320 attackPower:100]
+
+attack Role[ 亚瑟王 ] loss 100life 
+attack Monser [ Moster Boss ], Moster Boss loss 100 life.
+Role[ 亚瑟王 ]'s status is [ life:270 weapon:Magic Sword attackPower:100]
+Moster[ Moster Boss ]'s status is [ life:220 attackPower:100]
+
+attack Role[ 亚瑟王 ] loss 100life 
+attack Monser [ Moster Boss ], Moster Boss loss 100 life.
+Role[ 亚瑟王 ]'s status is [ life:170 weapon:Magic Sword attackPower:100]
+Moster[ Moster Boss ]'s status is [ life:120 attackPower:100]
+
+attack Role[ 亚瑟王 ] loss 100life 
+Role[ 亚瑟王 ] user skill [斩杀] attack Monser [ Moster Boss ], Moster Bossis dead.
+Role[ 亚瑟王 ]'s status is [ life:70 weapon:Magic Sword attackPower:100]
+Moster[ Moster Boss ]'s status is [ life:0 attackPower:100]
+
+
+Fight End
